@@ -1,0 +1,8 @@
+{
+  "name": "Remix VANTA Chinese - เรียนภาษาจีนสำหรับผู้เริ่มต้น",
+  "description": "แอปพลิเคชันฝึกฝนภาษาจีนสำหรับผู้เริ่มต้น พร้อม AI จำลองบทสนทนา ระบบจำคำศัพท์และไวยากรณ์ มาสคอต และระบบสะสมเหรียญรางวัล",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
